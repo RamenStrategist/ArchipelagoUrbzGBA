@@ -14,6 +14,7 @@ rom_addresses = {
     "Bladder Need": 0x3897,
     "Entertainment Need": 0x389b,
     "Home Need": 0x389f,
+    "House": 0x38ac, # 0 - None, 1 - Small Brownstone, 2 - Large Brownstone, 3 - Townhouse, 4 - Quarters, 5 - City Apartment, 6 - Penthouse
     "Xizzle Beads Held": 0x38b8,
     "Streeties Rep": 0x38bc,
     "Nerdies Rep": 0x389bd,
