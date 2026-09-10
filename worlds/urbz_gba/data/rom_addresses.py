@@ -61,7 +61,7 @@ relationship_rom_addresses = {
     "Sue Pirnova": 0x3861,
     "Theresa Bullhorn": 0x3865,
 }
-objective_rom_addresses = {
+mission_rom_addresses = {
     "C1G1 done": 0x4211,
     "C1G101 done": 0x4215,
     "C1G102 done": 0x4219,
